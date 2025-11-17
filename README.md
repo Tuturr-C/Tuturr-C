@@ -6,7 +6,7 @@ A little about me...
 
 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
-💻 My passions include listen musics, play guitar, games, sports and swimming .
+💻 My passions include listen musics, play guitar, games, sports and swimming.
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
