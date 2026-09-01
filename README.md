@@ -10,10 +10,12 @@ A little about me...
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
-<div align="center"> <a href="https://github.com/Tuturr-C"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuturr-C&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuturr-C&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
+<div align="center">
+  <a href="https://github.com/Tuturr-C">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Tuturr-C&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tuturr-C&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
   </a>
 </div>
-
 
 Skills & Tools:
 
