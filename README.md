@@ -1,3 +1,4 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arthur%20Gerotto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=58&descSize=20" alt="Header" /> </div> <div align="center"> <a href="https://github.com/Tuturr-C"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;C+%7C+Java+%7C+Web+Development;Always+learning+and+building" alt="Typing SVG" /> </a> <br><br> <img src="https://komarev.com/ghpvc/?username=Tuturr-C&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Tuturr-C?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1033&logo=github" alt="Followers" /> </div> <br>
 👋 Hi there! I'm Arthur
 
 A little about me...
@@ -10,29 +11,12 @@ A little about me...
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
-<div align="center">
-  <a href="https://github.com/Tuturr-C"><img height="170" src="https://github-stats-extended.vercel.app/api?username=Tuturr-C&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/Tuturr-C"><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tuturr-C&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook" alt="Top Languages" /></a>
-</div>
+<br> <div align="center"> <h3>🎸 Beyond the Code</h3> <img src="https://img.shields.io/badge/Music-A855F7?style=for-the-badge&logo=spotify&logoColor=white" alt="Music" /> <img src="https://img.shields.io/badge/Guitar-7C3AED?style=for-the-badge&logo=guitarpro&logoColor=white" alt="Guitar" /> <img src="https://img.shields.io/badge/Gaming-6D28D9?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming" /> <img src="https://img.shields.io/badge/Swimming-8B5CF6?style=for-the-badge&logo=speedtest&logoColor=white" alt="Swimming" /> </div> <br> <div align="center"> <h3>📊 GitHub Stats</h3> <a href="https://github.com/Tuturr-C"><img height="170" src="https://github-stats-extended.vercel.app/api?username=Tuturr-C&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&ring_color=A855F7&border_color=7C3AED" alt="GitHub Stats" /></a> <a href="https://github.com/Tuturr-C"><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tuturr-C&layout=compact&langs_count=8&hide=jupyter%20notebook&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&border_color=7C3AED" alt="Top Languages" /></a> <br><br> <img src="https://streak-stats.demolab.com?user=Tuturr-C&theme=dark&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&currStreakNum=C084FC&sideLabels=E9D5FF&sideNums=C084FC&dates=A78BFA&stroke=7C3AED&border=7C3AED" alt="GitHub Streak" /> </div> <br> <div align="center"> 
 
-<div align="center">
-  <h3>Skills & Tools</h3>
-  <div>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Contact Me</h3>
-  <a href="https://www.linkedin.com/in/arthur-gerotto-339a37352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/_turgerotto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:arthurgerotto2007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://api.whatsapp.com/send?phone=5519982981323" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</div>
+<h3>📌 Featured Projects</h3> <a href="https://github.com/Tuturr-C/Projeto_App-Site_Alerta_Fogo"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Tuturr-C&repo=Projeto_App-Site_Alerta_Fogo&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=7C3AED" alt="Projeto App-Site Alerta Fogo" /></a> <a href="https://github.com/Tuturr-C/Programa-oOrientadaAObjetosJava"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Tuturr-C&repo=Programa-oOrientadaAObjetosJava&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=7C3AED" alt="Programação Orientada a Objetos Java" /></a> <br> <a href="https://github.com/Tuturr-C/Projeto-Pessoais"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Tuturr-C&repo=Projeto-Pessoais&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=7C3AED" alt="Projetos Pessoais" /></a> </div> <br> <div align="center"> 
+  
+  <h3>Skills & Tools</h3> <div> <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </div> </div> <br> <div align="center"> 
+  
+<h3>🏆 Trophies</h3> <img src="https://github-profile-trophy.vercel.app/?username=Tuturr-C&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies" /> </div> <br> <div align="center"> 
+  
+<h3>🐍 Contribution Snake</h3> <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tuturr-C/Tuturr-C/output/snake-purple.svg" /> </div> <br> <div align="center"> <h3>Contact Me</h3> <a href="https://www.linkedin.com/in/arthur-gerotto-339a37352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/_turgerotto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="mailto:arthurgerotto2007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://api.whatsapp.com/send?phone=5519982981323" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> </div> <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" /> </div>
